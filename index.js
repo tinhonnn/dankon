@@ -5,7 +5,7 @@ const birthdayMusic = document.getElementById("birthdayMusic");
 
 const texts = [
   "Chúc em zai thân kiếm hợp nhất🥳🔥",
-  "So so so 😎✨",
+  "So so so, Cùng JF và công nghệ chống trượt😎✨",
   "Cùng bạn đời đi gặt từng bàn bi lát ở OC 🎁🎉"
 ];
 
